@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1920px" height="103px" viewBox="0 0 1920 103" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Shape</title>
+    <g id="Pages" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="01-SaaS-Application" transform="translate(0.000000, -789.000000)" fill="#F8F8F8">
+            <g id="BG" transform="translate(-21.000000, 789.000000)">
+                <path d="M20.9967981,64.8320808 C73.289125,60.0826624 147.625405,63.340667 244.005639,74.6060946 C388.57599,91.5042361 716.725326,118.176391 975.074976,91.5042361 C1233.42463,64.8320808 1519.09677,28.7860401 1632.36434,36.8170239 C1747.41602,43.0899586 1918.63474,69.70353 1940.81627,80.603883 C1940.81627,26.867961 1940.81627,-5.68434189e-14 1940.81627,-5.68434189e-14 L20.8162722,-5.68434189e-14 L20.9967981,64.8320808 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
